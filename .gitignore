@@ -5,13 +5,14 @@ data/
 models_html/
 figures/
 figures_arxiv/
+figures_arxiv_2/
 
 # Large data files (too big for GitHub)
 *.json
 *.csv
 *.html
 
-# Allow specific small configuration or sample files if needed
+# Allow specific small configuration or samp1le files if needed
 !requirements.txt
 !setup_venv.sh
 !README.md
