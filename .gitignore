@@ -131,3 +131,7 @@ run-calculator.sh
 *_gender_*.csv
 name_gender_dataset.csv
 wgnd_*.csv
+
+# Document
+documents
+
